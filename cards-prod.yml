@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "config server for cards microservice"
+  contactDetails:
+    name: "Gina Xu Prod"
+    email: "gina@test.com"
+  onCallSupport:
+    - 1234
+    - 5678
