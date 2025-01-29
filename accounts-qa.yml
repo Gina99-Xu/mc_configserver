@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "config server for accounts microservice"
+  contactDetails:
+    name: "Gina Xu QA"
+    email: "gina@test.com"
+  onCallSupport:
+    - 1234
+    - 5678
